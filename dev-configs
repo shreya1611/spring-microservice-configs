@@ -1,0 +1,3 @@
+app.env=dev
+app.version=dev1
+app.build=devbuild1 
